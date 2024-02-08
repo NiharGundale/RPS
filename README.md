@@ -1,3 +1,3 @@
 # RPS
-This is first repo
+This is first repo.
 Author-Nihar Gundale
